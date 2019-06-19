@@ -44,7 +44,7 @@
   <ItemGroup>
     <Compile Include="AddClass1.cs" />
     <Compile Include="AddClass2.cs" />
-    <Compile Include="AddClass3Master.cs" />
+    <Compile Include="AddClass7Master.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
