@@ -9,5 +9,8 @@ namespace ConsoleApp8test
     class AddClass4Child
     {
         //added class 4 child
+        
+
+        //cnges in cild test4
     }
 }
