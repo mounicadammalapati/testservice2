@@ -10,5 +10,14 @@ namespace ConsoleApp8test
     {
         //adding this new class
         //changin someing so that it reduces conflicts, and these changes are master
+
+            
+       public void Hello()
+        {
+            for(int i=0;i<5;i++)
+            {
+                Console.WriteLine("hello");
+            }
+        }
     }
 }
