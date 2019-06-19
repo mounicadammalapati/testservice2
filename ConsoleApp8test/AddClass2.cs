@@ -9,6 +9,7 @@ namespace ConsoleApp8test
     class AddClass2
     {
         //added class2
+        //changes for master
 
 
 
