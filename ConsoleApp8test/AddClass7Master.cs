@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp8test
 {
-    class AddClass4Child
+    class AddClass7Master
     {
-        //added class 4 child
-        
-
-        //cnges in cild test4
     }
 }

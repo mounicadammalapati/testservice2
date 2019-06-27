@@ -10,8 +10,13 @@ namespace ConsoleApp8test
     {
         static void Main(string[] args)
         {
-
+            //changes are for master
             //changes hello
+
+            for(int i=0;i<=5;i++)
+            {
+                Console.WriteLine("hello");
+            }
         }
     }
 }
